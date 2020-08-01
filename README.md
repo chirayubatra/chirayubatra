@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Chirayu 👋
+
+Nuclear Engineer • Reader • Amateur Writer • Wanderer • Believer • Life's Fan
+
 
 <!--
 **chirayubatra/chirayubatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
