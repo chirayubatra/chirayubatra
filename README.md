@@ -14,7 +14,7 @@ When your life deals with subatomic particles, then a little bit of philosophy c
 [![Twitter][1.1]][1]
 
 
-[1.1]: ../blob/master/assets/twitter.png (Chirayu's twitter profile)
+[1.1]: https://github.com/chirayubatra/chirayubatra/blob/master/assets/twitter.png (Chirayu's twitter profile)
 
 
 [1]: http://www.twitter.com/chirayubatra
