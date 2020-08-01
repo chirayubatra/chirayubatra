@@ -8,7 +8,7 @@ When your life deals with subatomic particles, then a little bit of philosophy c
 
 [LinkedIn](https://www.linkedin.com/in/chirayubatra "Chirayu's LinkedIn Profile")
 
-[Twitter] (@chirayubatra)
+[@chirayubatra] (https://twitter.com/chirayubatra "Chirayu's Twitter Profile")
 
 <!--
 **chirayubatra/chirayubatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
