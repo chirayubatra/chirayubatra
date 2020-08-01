@@ -8,16 +8,21 @@ When your life deals with subatomic particles, then a little bit of philosophy c
 
 ### Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/chirayubatra "Chirayu's LinkedIn Profile")
-- [![Twitter][1.1]][1] [@chirayubatra](https://twitter.com/chirayubatra "Chirayu's Twitter Profile")
+- [@chirayubatra](https://twitter.com/chirayubatra "Chirayu's Twitter Profile")
 
+____
 
+[![Twitter][1.1]][1] [![LinkedIn][2.1]][2]
 
 
 <!-- links to icons -->
 [1.1]: https://github.com/chirayubatra/chirayubatra/blob/master/assets/twitter.png (Chirayu's twitter profile)
+[2.1]: https://github.com/chirayubatra/chirayubatra/blob/master/assets/linkedin.png (Chirayu's linkedin profile)
 
 <!-- links to profile -->
 [1]: http://www.twitter.com/chirayubatra
+[2]: https://www.linkedin.com/in/chirayubatra
+
 
 <!--
 **chirayubatra/chirayubatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
