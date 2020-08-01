@@ -1,7 +1,13 @@
 ### Hi, I'm Chirayu 👋
 
-Nuclear Engineer • Reader • Amateur Writer • Wanderer • Believer • Life's Fan :hourglass_flowing_sand:
+Nuclear Engineer • Reader • Amateur Writer • Wanderer • Believer • Life's Fan
 
+Nuclear Engineering, Nuclear Reactor Physics, Material Science — Interested in System Thermal Hydraulics, Reactor Physics, modelling and simulations — Experience in Fast Reactor as well as LWR modeling and simulation using RELAP5-3D — International, multi-cultural educational and work experience — An ardent believer of next generation of nuclear reactors and making the present generation safer — Worked on various Nuclear, entrepreneurial, energy related projects.
+
+When your life deals with subatomic particles, then a little bit of philosophy creeps in naturally. So, apart from being a nuclear engineer, I love to read books, scribe at times, wander around a lot, think about existence of life in general and its meaning in particular...
+
+LinkedIn:linkedin.com/in/chirayubatra
+Twitter: @chirayubatra
 
 <!--
 **chirayubatra/chirayubatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
