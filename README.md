@@ -1,6 +1,6 @@
 ### Hi, I'm Chirayu 👋
 
-Nuclear Engineer • Reader • Amateur Writer • Wanderer • Believer • Life's Fan
+Nuclear Engineer • Reader • Amateur Writer • Wanderer • Believer • Life's Fan :hourglass_flowing_sand:
 
 
 <!--
