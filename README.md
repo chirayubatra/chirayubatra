@@ -10,6 +10,14 @@ When your life deals with subatomic particles, then a little bit of philosophy c
 - [LinkedIn](https://www.linkedin.com/in/chirayubatra "Chirayu's LinkedIn Profile")
 - [@chirayubatra](https://twitter.com/chirayubatra "Chirayu's Twitter Profile")
 
+
+[![Twitter][1.1]][1]
+[1.1]: ../blob/master/assets/twitter.png (Chirayu's twitter profile)
+[1]: http://www.twitter.com/chirayubatra
+
+
+
+
 <!--
 **chirayubatra/chirayubatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
 -->
