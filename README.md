@@ -6,8 +6,9 @@ Nuclear Engineering, Nuclear Reactor Physics, Material Science — Interested in
 
 When your life deals with subatomic particles, then a little bit of philosophy creeps in naturally. So, apart from being a nuclear engineer, I love to read books, scribe at times, wander around a lot, think about existence of life in general and its meaning in particular...
 
-LinkedIn:linkedin.com/in/chirayubatra
-Twitter: @chirayubatra
+[LinkedIn](https://www.linkedin.com/in/chirayubatra "Chirayu's LinkedIn Profile")
+
+[Twitter] (@chirayubatra)
 
 <!--
 **chirayubatra/chirayubatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
